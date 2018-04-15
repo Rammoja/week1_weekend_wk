@@ -35,3 +35,9 @@ def pets_by_breed(shop, breed)
   end
   return total
 end
+
+def all_pets_by_breed__not_found()
+total = 0
+ for pets in shop [:pets]
+ end
+end
